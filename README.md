@@ -1,0 +1,3 @@
+# RIT-NM-FULLSTACK
+
+An inventory management system (or inventory system) is the process by which you track your goods throughout your entire supply chain, from purchasing to production to end sales. It governs how you approach inventory management for your business.Each company will manage stock in their own unique way, depending on the nature and size of their business. This stock Inventory application is aimed at a person who runs a shop of any scale, who wants to manage his stocks , sales, profit-loss ratio, what needs to be refilled, billing and any related stuff that facilities the goods and services of his buisness. MongoDB is used for backend
