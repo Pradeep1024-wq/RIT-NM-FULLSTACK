@@ -1,0 +1,51 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+
+header {
+	background-color: #424b4d;
+	color: #ffffff;
+	padding: 10px;
+	text-align: center;
+}
+
+.container {
+	margin: 20px;
+	color: rgb(255, 255, 255);
+}
+
+form label {
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+form input[type="text"], form input[type="number"] {
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+form button[type="submit"] {
+	padding: 10px;
+	background-color: #424b4d;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+table th, table td {
+	padding: 10px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+
+table th {
+	background-color: #10b4ac;
+	color: #420505;
+}
