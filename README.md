@@ -1,3 +1,35 @@
-# RIT-NM-FULLSTACK
+# Getting Started with Create React App
 
-An inventory management system (or inventory system) is the process by which you track your goods throughout your entire supply chain, from purchasing to production to end sales. It governs how you approach inventory management for your business.Each company will manage stock in their own unique way, depending on the nature and size of their business. This stock Inventory application is aimed at a person who runs a shop of any scale, who wants to manage his stocks , sales, profit-loss ratio, what needs to be refilled, billing and any related stuff that facilities the goods and services of his buisness. MongoDB is used for backend
+
+## Available URLs
+* For admin: `http://localhost:3000/admin/`
+* For customer: `http://localhost:3000`
+* Login: `http://localhost:3000/login`
+* Register: `http://localhost:3000/registration` 
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
