@@ -2,8 +2,6 @@
 
 <p id="description">A MERN stack app built for warehouse and inventory management</p>
 
- <h2>🚀 Demo</h2>
-
 
 [InStock LIVE](https://instock-2.netlify.app/)
 
