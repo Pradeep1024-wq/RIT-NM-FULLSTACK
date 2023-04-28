@@ -1,4 +1,4 @@
-<h1 align="center" id="title">InStock</h1>
+<h1 align="center" id="title">Pradeep Stock Inventory Management</h1>
 
 <p id="description">A MERN stack app built for warehouse and inventory management</p>
 
