@@ -37,27 +37,7 @@ Here're some of the project's best features:
 ![instock-2 netlify app_warehouses (2)](https://user-images.githubusercontent.com/108539627/205543818-ecbdb27b-9d4e-46fc-9e91-3755777f0c34.png)
 
 
-<h2>🛠️ Installation Steps:</h2>
 
-<p>1. To start using this app you first need to clone the repository:</p>
-
-```
-git clone https://github.com/ragibs/in-stock
-```
-
-<p>2. Then you will need to install all the required packages for the app and server. After you in the correct folder (app or server) run this command (if you're using npm):</p>
-
-```
-npm i
-```
-
-<p>3. Finally to run the app run the following command in both folder:</p>
-
-```
-npm start
-```
-
-  
   
 <h2>💻 Built with</h2>
 
