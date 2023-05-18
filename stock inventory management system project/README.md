@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Pradeep Stock Inventory Management</h1>
 
-<p id="description">A MERN stack app built for warehouse and inventory management</p>
+<p id="description">A Stock inventory management</p>
 
 
 [InStock LIVE](https://instock-2.netlify.app/)
