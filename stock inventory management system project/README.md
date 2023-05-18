@@ -11,14 +11,14 @@
 
 Here're some of the project's best features:
 
-*   Add a new warehouse
-*   Edit an existing warehouse
-*   Delete an existing warehouse
-*   Add a new inventory
-*   Delete an existing inventory
-*   Edit an existing inventory
-*   Ability to search through warehouses and inventories
-*   Ability to sort warehouse list and inventories list
+*   Add a new stock.
+*   Edit an existing stock.
+*   Delete an existing stock.
+*   Add a new inventory.
+*   Delete an existing inventory.
+*   Edit an existing inventory.
+*   Ability to search through stock and inventories.
+*   Ability to sort stock list and inventories list.
 
 <h2>📸  Screenshots</h2>
 
